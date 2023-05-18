@@ -3,7 +3,8 @@ This repository contains implementations of random search algorithms for solving
 
 The following random search algorithms are implemented in this repository:
 # Nearest Neighbor (NN) Algorithm:
-1-Start from a randomly selected city as the current city.\n
+1-Start from a randomly selected city as the current city.
+
 2-Mark the current city as visited.
 3-Repeat until all cities are visited:
    a. Find the nearest unvisited city to the current city.
